@@ -1,0 +1,24 @@
+{
+  "name": "electron-wordle-clone",
+  "version": "0.0.1",
+  "description": "follow along example of javascript clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrinkmeyer/electron-wordle-clone.git"
+  },
+  "keywords": [
+    "electron",
+    "wordle",
+    "clone"
+  ],
+  "author": "youtube guy and me",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sbrinkmeyer/electron-wordle-clone/issues"
+  },
+  "homepage": "https://github.com/sbrinkmeyer/electron-wordle-clone#readme"
+}
